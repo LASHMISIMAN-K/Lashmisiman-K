@@ -15,9 +15,8 @@ Building scalable web applications, AI-powered tools, and real-world software so
 - 🎓 B.Tech CSE (IoT & Automation) @ SASTRA University
 - 💻 Passionate Full Stack Web Developer
 - 🤖 Exploring Artificial Intelligence & LLM Applications
-- 🌱 Currently learning MERN Stack, System Design, and Backend Development
+- 🌱 Currently learning MERN Stack, and Backend Development
 - 📚 Working on AI SaaS and Research Projects
-- 🎯 Goal: Become a Software Engineer at a Top Product Company
 
 ---
 
@@ -32,8 +31,8 @@ Google Gemini-inspired AI chatbot built with React.
 ### 🌐 Portfolio Website
 Modern responsive developer portfolio.
 
-### 🔐 DSMFC Encryption
-Research paper on Dynamic Self-Modifying Feistel Cipher.
+### To Do List
+Persolized to do list app with local storage.
 
 ---
 
@@ -92,8 +91,8 @@ Modern AI chatbot built using React.
 ### 🌐 Portfolio Website
 Personal portfolio with animations and responsive design.
 
-### 🔐 DSMFC Encryption
-Hardware encryption research implemented in Verilog.
+### To Do List
+Persolized to do list app with local storage.
 
 ---
 
@@ -122,10 +121,7 @@ Hardware encryption research implemented in Verilog.
 # 📚 Currently Learning
 
 - MERN Stack
-- System Design
 - PostgreSQL
-- Docker
-- Cloud
 - AI Agents
 - LLM Integration
 
@@ -143,11 +139,7 @@ Hardware encryption research implemented in Verilog.
 
 # 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://lashmisimank.vercel.app/)
 
 ---
 
