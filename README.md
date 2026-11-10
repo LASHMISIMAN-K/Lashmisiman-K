@@ -1,152 +1,152 @@
-<h1 align="center">Hi 👋, I'm Lashmisiman K</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Web Developer • AI Enthusiast • Software Engineer Aspirant
-</h3>
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=lashmisiman-k&theme=neon&role=Frontend%20or%20full-stack%20engineer&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="LASHMISIMAN-K profile banner" />
 
-<p align="center">
-Building scalable web applications, AI-powered tools, and real-world software solutions.
-</p>
+<br/>
 
----
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Frontend%20or%20full-stack%20engineer;Frontend%20or%20full-stack%20engineer;Building%20with%20JavaScript%20%C2%B7%20HTML%20%C2%B7%20Python;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
 
-# 🚀 About Me
+<br/>
 
-- 🎓 B.Tech CSE (IoT & Automation) @ SASTRA University
-- 💻 Passionate Full Stack Web Developer
-- 🤖 Exploring Artificial Intelligence & LLM Applications
-- 🌱 Currently learning MERN Stack, and Backend Development
-- 📚 Working on AI SaaS and Research Projects
+<a href="https://github.com/lashmisiman-k"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GitHub" /></a>
 
----
+<br/><br/>
 
-# 🔥 Current Projects
+<img src="https://img.shields.io/badge/Profile_views-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Profile views" /> <img src="https://img.shields.io/badge/5_followers-00FFA3?style=for-the-badge&amp;labelColor=0d1117" alt="5 followers" />
 
-### 🤖 Axion AI
-AI-powered SaaS platform with multiple productivity tools.
+</div>
 
-### 💬 Gemini Clone
-Google Gemini-inspired AI chatbot built with React.
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=lashmisiman-k&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-### 🌐 Portfolio Website
-Modern responsive developer portfolio.
+## ⚡ whoami
 
-### To Do List
-Persolized to do list app with local storage.
+```typescript
+const lashmisiman_k: Developer = {
+  name:      "LASHMISIMAN-K",
+  role:      "Frontend or full-stack engineer",
+  location:  "Building from the open web",
+  currently: "building in public",
+  stack:     ["JavaScript", "HTML", "Python", "CSS", "EJS"],
+  mantra:    "Make useful things, then make them delightful 🚀",
+};
+```
 
----
+> Frontend or full-stack engineer
+> 
+> **Collaborations welcome when they are meaningful 🤝**
 
-# 💻 Tech Stack
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=lashmisiman-k&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-## 🌐 Frontend
+## ⚔️ Tech Arsenal
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=javascript%2Chtml%2Cpython%2Ccss&perline=8&theme=dark" alt="Tech stack" />
 
-## ⚙ Backend
+<br/><br/>
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+**🧠 AI / ML &nbsp;·&nbsp; ⚙️ Automation**
 
----
+<img src="https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&amp;labelColor=0d1117" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&amp;labelColor=0d1117" alt="HTML" /> <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&amp;labelColor=0d1117" alt="Python" /> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&amp;labelColor=0d1117" alt="CSS" /> <img src="https://img.shields.io/badge/EJS-a91e50?style=for-the-badge&amp;labelColor=0d1117" alt="EJS" />
 
-## 🗄 Database
+</div>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=lashmisiman-k&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
----
+## 🌌 Featured Projects
 
-## 💻 Languages
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+**Gemini-Clone**
 
----
+Google Gemini Clone is a frontend-only project built with React.js and powered by Vite for lightning-fast development and optimized builds. This project replicates the sleek and interactive interface of Google Gemini, focusing on responsiveness, modular components, and developer-friendly architecture. 
 
-## 🛠 Tools
+`JavaScript` · `1 stars`
 
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+<a href="https://github.com/LASHMISIMAN-K/Gemini-Clone"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
----
+</td>
+<td width="50%" valign="top">
 
-# 📂 Featured Projects
+**AI-SaaS-App**
 
-### 🤖 Axion AI
-AI SaaS platform powered by Gemini API.
+A featured build from this profile.
 
-### 💬 Gemini Clone
-Modern AI chatbot built using React.
+`JavaScript` · `0 stars`
 
-### 🌐 Portfolio Website
-Personal portfolio with animations and responsive design.
+<a href="https://github.com/LASHMISIMAN-K/AI-SaaS-App"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
-### To Do List
-Persolized to do list app with local storage.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+**Portfolio**
 
-# 📊 GitHub Stats
+My first websites 
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+`HTML` · `0 stars`
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+<a href="https://github.com/LASHMISIMAN-K/Portfolio"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+</td>
+<td width="50%" valign="top">
 
----
+**To-Do-List**
 
-# 🏆 GitHub Trophies
+A featured build from this profile.
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&margin-w=10)
+`CSS` · `0 stars`
 
----
+<a href="https://github.com/LASHMISIMAN-K/To-Do-List"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
-# 📈 Contribution Graph
+</td>
+</tr>
+</table>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark)
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=lashmisiman-k&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
----
+## 📊 GitHub Stats
 
-# 📚 Currently Learning
+<div align="center">
 
-- MERN Stack
-- PostgreSQL
-- AI Agents
-- LLM Integration
+<img src="https://www.gitskins.com/api/section/stats?username=lashmisiman-k&theme=neon&v=neon-circuit-stats-1" width="100%" alt="GitHub stats" />
 
----
+<br/>
 
-# 🎯 2026 Goals
+<img src="https://www.gitskins.com/api/section/heatmap?username=lashmisiman-k&theme=neon&style=aura" width="100%" alt="Contribution activity" />
 
-- 🚀 Complete 10+ Full Stack Projects
-- 🤖 Build Production AI Applications
-- 🏆 Contribute to Open Source
-- 💼 Secure Software Development Internship
-- 🌟 Become an Expert MERN Developer
+</div>
 
----
-
-# 🌐 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://lashmisimank.vercel.app/)
-
----
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=lashmisiman-k&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <p align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
-"Code. Build. Learn. Repeat."
-
+  <img src="https://www.gitskins.com/api/section/heatmap?username=lashmisiman-k&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F188217126%3Fv%3D4" alt="lashmisiman-k heatmap visual" />
 </p>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=lashmisiman-k&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## 🏆 Beyond the Code
+
+* 🧠 **Profile signal:** 64 contributions in the last year
+* 🚀 **Builder energy:** 11 public repositories
+* ⭐ **Community signal:** 1 stars across featured work
+* 🗣️ **Open to:** interesting collaborations and useful products
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=lashmisiman-k&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+<div align="center">
+
+## 🤝 Let's Build Something Meaningful
+
+I build useful software and enjoy turning ambitious ideas into working products.
+
+<a href="https://github.com/lashmisiman-k"><img src="https://img.shields.io/badge/Start_a_conversation-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Start a conversation" /></a>
+
+<br/><br/>
+
+***⭐ From [LASHMISIMAN-K](https://github.com/lashmisiman-k) · built with code, AI & a little chaos 😈***
+
+</div>
